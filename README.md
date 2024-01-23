@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 - DATA SCIENTIST & MACHINE LEARNING ENGINEER
 👋 Hello there! I'm Wairimu Kimani, a passionate Data Scientist and Machine Learning Engineer with a knack for transforming raw data into actionable insights. My journey in the realm of data began with a fascination for uncovering meaningful patterns and trends, and it has since evolved into a commitment to leveraging advanced analytics to solve complex problems.
 
 🚀 What I Bring to the Table:
