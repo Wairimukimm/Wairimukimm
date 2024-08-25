@@ -1,12 +1,9 @@
 ### Hi there 👋 - DATA SCIENTIST & MACHINE LEARNING ENGINEER
-👋 Hello there! I'm Wairimu Kimani, a passionate Data Scientist and Machine Learning Engineer with a knack for transforming raw data into actionable insights. 
-
-
-
-Blogging: Check out my technical blog posts where I share insights, tutorials, and experiences related to the dynamic field of data science and machine learning.
+👋 Hello there! I'm Wairimu, a passionate Data Scientist and Machine Learning Engineer with a knack for transforming raw data and building models.
 
 📈 Let's Connect:
-LinkedIn: https://www.linkedin.com/in/priscillah-wairimu-99b75a1b1/
+[LinkedIn](https://www.linkedin.com/in/priscillah-wairimu-99b75a1b1/)
+[Medium](https://medium.com/@pwairimu046)
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -20,11 +17,11 @@ LinkedIn: https://www.linkedin.com/in/priscillah-wairimu-99b75a1b1/
 ## Badges and Honors
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-FF4500?style=flat&logo=hacktoberfest&logoColor=white)
 ![GitHub Stars](https://img.shields.io/badge/GitHub_Stars-181717?style=flat&logo=github&logoColor=white)
-
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Wairimukimm=Wairimukimm&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Wairimukimm=Wairimukimm&layout=compact&theme=radical)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?Wairimukimm=Wairimukimm&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wairimukimm&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wairimukimm&layout=compact&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Wairimukimm&theme=react-dark)
+
 
 
 <!--
