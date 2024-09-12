@@ -1,6 +1,8 @@
 ### Hi there 👋 - DATA SCIENTIST & MACHINE LEARNING ENGINEER
 👋 Hello there! I'm Wairimu, a passionate Data Scientist and Machine Learning Engineer with a knack for transforming raw data and building models.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Wairimukimm&color=brightgreen)
+
 📈 Let's Connect:
 [LinkedIn](https://www.linkedin.com/in/priscillah-wairimu-99b75a1b1/)
 [Medium](https://medium.com/@pwairimu046)
@@ -17,12 +19,11 @@
 ## Badges and Honors
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-FF4500?style=flat&logo=hacktoberfest&logoColor=white)
 ![GitHub Stars](https://img.shields.io/badge/GitHub_Stars-181717?style=flat&logo=github&logoColor=white)
+
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wairimukimm&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wairimukimm&layout=compact&theme=radical)
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Wairimukimm&theme=react-dark)
-
-
 
 <!--
 **Wairimukimm/Wairimukimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
