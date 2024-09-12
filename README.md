@@ -27,13 +27,9 @@
 - [Ethics in AI](https://medium.com/@pwairimu046/navigating-the-ethical-landscape-of-artificial-intelligence-3b9d79da7da3)
 - [Vecm Time Series](https://medium.com/@pwairimu046/navigating-vecm-time-series-baaaea568485)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wairimukimm&theme=onedark)
-
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wairimukimm&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wairimukimm&layout=compact&theme=radical)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Wairimukimm&theme=react-dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wairimukimm&theme=radical)
 
 ## ⚡ Fun Facts
