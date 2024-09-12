@@ -15,9 +15,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🔭 What I'm Currently Working On
-- Building a machine learning model to predict credit risk for financial institutions.
-- Developing an SMS classification system for transaction categorization.
-- Collaborating with data scientists on NLP research.
+- Developing my machine learning skills
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -26,9 +24,8 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ## 📝 Latest Blog Posts
-- [Understanding Time Series Forecasting](https://medium.com/example)
-- [How to Build a Machine Learning Pipeline](https://medium.com/example)
-- [Introduction to NLP with Python](https://medium.com/example)
+- [Ethics in AI](https://medium.com/@pwairimu046/navigating-the-ethical-landscape-of-artificial-intelligence-3b9d79da7da3)
+- [Vecm Time Series](https://medium.com/@pwairimu046/navigating-vecm-time-series-baaaea568485)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wairimukimm&theme=onedark)
@@ -40,6 +37,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wairimukimm&theme=radical)
 
 ## ⚡ Fun Facts
-- I love running machine learning experiments and tweaking hyperparameters.
-- When I’m not coding, I enjoy hiking and trying out new coffee blends!
+- When I’m not coding, I enjoy hiking 
 
