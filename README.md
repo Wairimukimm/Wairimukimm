@@ -1,5 +1,5 @@
-### Hi there 👋 - DATA SCIENTIST & MACHINE LEARNING ENGINEER
-👋 Hello there! I'm Wairimu, a passionate Data Scientist and Machine Learning Engineer with a knack for transforming raw data and building models.
+### Hi there 👋 - DATA ANALYST
+👋 Hello there! I'm Wairimu, a passionate Data Analyst with a knack for transforming raw data and building models.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Wairimukimm&color=brightgreen)
 
