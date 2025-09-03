@@ -1,5 +1,5 @@
-### Hi there 👋 - DATA ANALYST
-👋 Hello there! I'm Wairimu, a passionate Data Analyst with a knack for transforming raw data and building models.
+### Hi there 👋 - DATA SCIENTIST
+👋 Hello there! I'm Wairimu, a passionate Data Scientist & ML Engineers with a knack for transforming raw data and building models.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Wairimukimm&color=brightgreen)
 
