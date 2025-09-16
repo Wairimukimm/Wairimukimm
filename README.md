@@ -1,4 +1,4 @@
-### Hi there 👋 - DATA SCIENTIST
+### Hi there 👋 - DATA SCIENTIST & ML Engineer
 👋 Hello there! I'm Wairimu, a passionate Data Scientist & ML Engineers with a knack for transforming raw data and building models.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Wairimukimm&color=brightgreen)
