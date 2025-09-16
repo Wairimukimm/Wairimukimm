@@ -15,7 +15,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🔭 What I'm Currently Working On
-- Developing my machine learning skills
+- Exploring Quantam Computing
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
