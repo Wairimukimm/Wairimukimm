@@ -28,7 +28,6 @@
 - [Vecm Time Series](https://medium.com/@pwairimu046/navigating-vecm-time-series-baaaea568485)
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wairimukimm&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wairimukimm&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wairimukimm&theme=radical)
 
